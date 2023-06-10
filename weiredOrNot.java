@@ -8,13 +8,13 @@ import java.util.Scanner;
                 System.out.println("Weired");
             }
             if(n%2==0){
-                else if(2<=n<=5){
-                    System.out.println("Not Weired");
-                
-                    else if else(6<=n<=20){
-                        System.out.println("Weired");
-                        
-                        else{
+                 if(2<=n && n <=5) {
+                     System.out.println("Not Weired");
+                 }
+                    else if(6<=n && n<=20) {
+                     System.out.println("Weired");
+                 }
+                        else {
                             System.out.println("Not Weired");
                         }
                     }
@@ -22,7 +22,7 @@ import java.util.Scanner;
             
             }
             
-        }
-    }
+
+
     
-}
+

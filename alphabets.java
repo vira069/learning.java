@@ -1,4 +1,4 @@
-public class Charecters {
+public class alphabets {
     public static void main(String[]args){
         String s1="I love ...........";
         System.out.println(s1);

@@ -6,13 +6,11 @@ public class SumofN {
         Scanner sc=new Scanner(System.in);
         int n =sc.nextInt(); 
         int sum=0;
-        int num=1;
-        while(n<1){
-            sum = sum+num;
+        for (int i = 1;i<=n;i++) {
+            sum = sum + i;
         }
         System.out.println(+sum);
-               
-        num++;
+
     }
-    
+
 }
