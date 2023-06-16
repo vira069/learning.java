@@ -6,7 +6,7 @@ public class maxInArray {
 
         int arr[] = new int[5];
         int ans = 0;
-        System.out.println("Enter the elements oa array: ");
+        System.out.println("Enter the elements of array: ");
         for (int i = 0; i < arr.length; i++) {
             Scanner read = new Scanner(System.in);
             arr[i] = read.nextInt();
