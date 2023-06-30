@@ -1,3 +1,4 @@
+
 public class sumArryElmnt {
 
     static void arraySum()

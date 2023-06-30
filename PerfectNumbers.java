@@ -3,7 +3,7 @@ public class PerfectNumbers {
     public static void main(String[]args)
     {
         long n,sum=0;
-        Scanner sc=new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.println("Enter any number: ");
         n=sc.nextLong();
         int i=1;
