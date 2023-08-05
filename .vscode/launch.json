@@ -1,0 +1,301 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SortingWith2pointer",
+            "request": "launch",
+            "mainClass": "SortingWith2pointer",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "SortingZerosAndOnes",
+            "request": "launch",
+            "mainClass": "SortingZerosAndOnes",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrayIsSorted",
+            "request": "launch",
+            "mainClass": "ArrayIsSorted",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "ChangeArrayElement",
+            "request": "launch",
+            "mainClass": "ChangeArrayElement",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "CloneArray",
+            "request": "launch",
+            "mainClass": "CloneArray",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "CopyArray",
+            "request": "launch",
+            "mainClass": "CopyArray",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "CountElement",
+            "request": "launch",
+            "mainClass": "CountElement",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "KthSmallAndLarge",
+            "request": "launch",
+            "mainClass": "KthSmallAndLarge",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "LargestSmallestInArray",
+            "request": "launch",
+            "mainClass": "LargestSmallestInArray",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "LastOccurenceInArray",
+            "request": "launch",
+            "mainClass": "LastOccurenceInArray",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "MiscProblem",
+            "request": "launch",
+            "mainClass": "MiscProblem",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "MiscProblem2",
+            "request": "launch",
+            "mainClass": "MiscProblem2",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "MiscProblem3",
+            "request": "launch",
+            "mainClass": "MiscProblem3",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "MiscProblem4",
+            "request": "launch",
+            "mainClass": "MiscProblem4",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "MonthsDays",
+            "request": "launch",
+            "mainClass": "MonthsDays",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "OccurenceOfElement",
+            "request": "launch",
+            "mainClass": "OccurenceOfElement",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "PerfectNumbers",
+            "request": "launch",
+            "mainClass": "PerfectNumbers",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "PresentQueries",
+            "request": "launch",
+            "mainClass": "PresentQueries",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "RepeatingNumber",
+            "request": "launch",
+            "mainClass": "RepeatingNumber",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArray",
+            "request": "launch",
+            "mainClass": "ReverseArray",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "SearchElement",
+            "request": "launch",
+            "mainClass": "SearchElement",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "SecondLargest",
+            "request": "launch",
+            "mainClass": "SecondLargest",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "SumofN",
+            "request": "launch",
+            "mainClass": "SumofN",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "TernryOp",
+            "request": "launch",
+            "mainClass": "TernryOp",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "TripleSum",
+            "request": "launch",
+            "mainClass": "TripleSum",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "UniqueElement",
+            "request": "launch",
+            "mainClass": "UniqueElement",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "VowelConsonant",
+            "request": "launch",
+            "mainClass": "VowelConsonant",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "alphabets",
+            "request": "launch",
+            "mainClass": "alphabets",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "call",
+            "request": "launch",
+            "mainClass": "call",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "maxInArray",
+            "request": "launch",
+            "mainClass": "maxInArray",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "numPattern1",
+            "request": "launch",
+            "mainClass": "numPattern1",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "numPattern5",
+            "request": "launch",
+            "mainClass": "numPattern5",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "pyramidPattern",
+            "request": "launch",
+            "mainClass": "pyramidPattern",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "searchInArray",
+            "request": "launch",
+            "mainClass": "searchInArray",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "sumArryElmnt",
+            "request": "launch",
+            "mainClass": "sumArryElmnt",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "sumOfArray",
+            "request": "launch",
+            "mainClass": "sumOfArray",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "sumOfDigit",
+            "request": "launch",
+            "mainClass": "sumOfDigit",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "twoSum",
+            "request": "launch",
+            "mainClass": "twoSum",
+            "projectName": "learning.java_936038bf"
+        },
+        {
+            "type": "java",
+            "name": "weiredOrNot",
+            "request": "launch",
+            "mainClass": "weiredOrNot",
+            "projectName": "learning.java_936038bf"
+        }
+    ]
+}

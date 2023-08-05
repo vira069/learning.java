@@ -1,12 +1,12 @@
-
-
 import java.util.Scanner;
 
-public class searchInArray {
-    static int findElement(int[] arr,int x){
-        for(int i = 0;i<arr.length;i++){
-            if(arr[i]==x){
-                System.out.println("The Element found in the index is "+i);
+public class RepeatingNumber {
+    static int firstRepeatingNumber(int[] arr){
+        for (int i=0;i< arr.length;i++){
+            for (int j=i+1;j< arr.length;j++){
+                if(arr[j]==arr[i]){
+                    return arr[i];
+                }
             }
         }
         return -1;
@@ -20,8 +20,6 @@ public class searchInArray {
         for(int i=0;i<n;i++){
             arr[i]=scan.nextInt();
         }
-        System.out.println("Enter searching element");
-        int x = scan.nextInt();
-        int index = findElement(arr ,x);
+        System.out.println("First repeating number of the input array is "+firstRepeatingNumber(arr));
     }
 }
